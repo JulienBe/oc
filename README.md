@@ -7,6 +7,7 @@ i7 9200: +50% air, +65% water
 
 # In progress:
 4770k: stock, pump + fans @ max, +20°
+
 | OC    | Volt    | Temp  |
 |-------|---------|-------|
 | +0%   | Stock   | +20°  |
