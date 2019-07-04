@@ -11,6 +11,12 @@ i7 9200: +50% air, +65% water
 | OC    | Volt    | Temp  |
 |-------|---------|-------|
 | 3.6   | Auto    | +20°  |
-| 4.0   | 1.1     | +20°  |
-| 4.1   | 1.1     |       | Unstable
-| 4.1   | 1.2     | +19°  | Window opened
+| 4.0   | 1.10    | +20°  |
+| 4.1   | 1.10    |       | Unstable
+| 4.1   | 1.115   | +19°  | Window opened
+| 4.2   | 1.120   |       | Unstable
+| 4.2   | 1.125   |       | Unstable
+| 4.2   | 1.130   |       | Unstable
+| 4.2   | 1.150   |       | Unstable
+| 4.2   | 1.170   |       | Unstable
+| 4.2   | 1.190   |
