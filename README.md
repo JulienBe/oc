@@ -24,3 +24,6 @@ i7 9200: +50% air, +65% water
 | 4.4   | 1.200   |       | Unstable
 | 4.4   | 1.220   |       | Unstable
 | 4.4   | 1.240   |       | Unstable
+| 4.4   | 1.280   |       | Unstable
+| 4.4   | 1.300   |       | Unstable
+| 4.4   | 1.320   | +30°  |
